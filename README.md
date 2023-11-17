@@ -2,13 +2,7 @@
 
 ```shell
 pnpm add @ichiql/numberize
-```
-
-```shell
 npm install @ichiql/numberize
-```
-
-```shell
 yarn add @ichiql/numberize
 ```
 
